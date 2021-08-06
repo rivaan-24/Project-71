@@ -1,0 +1,54 @@
+.marqueeStyle{
+    background-color: black;
+    color: aliceblue;
+}
+#pic1{
+    width: 500px;
+    height: 350px;
+}
+#pic3{
+    width: 500px;
+    height: 400px;
+}
+#img1{
+width: 800px;
+height: 450px;
+}
+#cafeteria{
+    width: 700px;
+    height: 350px;
+}
+#gym{
+    width: 600px;
+    height: 300px;
+}
+.school_mainDiv{
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none;
+}
+#covidCases{
+    width: 600px;
+    height: 450px;
+}
+.movie_head{
+    font-size: 20px;
+    padding: 6px 22px;
+    margin-bottom:15px;
+    border-radius: 10px;
+    width: 100%;
+    display:inline-block;
+}
+.movie_head i{
+    float: right;
+}
+header_entrepeneur{
+    line-height: 2px;
+}
+celebrities1{
+    height:50px;
+    width:50px;
+}
+body{
+background-color: cornflowerblue;
+}
